@@ -12,7 +12,7 @@ function removeElement(nums, val) {
             }
         }
 
-    return k;
+    return nums;
 }
 
 console.log(removeElement(nums0, val0));
